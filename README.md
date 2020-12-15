@@ -1,2 +1,2 @@
 "# DiceRollKotlin" 
-![](.\app\src\main\res\drawable.screenshot.jpg)
+![image](.\app\src\main\res\drawable.screenshot.jpg)
